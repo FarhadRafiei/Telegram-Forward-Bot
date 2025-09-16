@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Telegram-Forward-Bot
 ForwardBot is a lightweight Python script that automatically forwards messages from a source Telegram chat or channel to a target group. Easy to set up and run on PC or Raspberry Pi.
-=======
+
 # ForwardBot
 
 A simple Python script that automatically forwards messages from one Telegram chat (channel, private, or group) to another group.
@@ -43,4 +43,4 @@ python forwardbot.py
 
 ## License
 MIT License
->>>>>>> a36eb65 (Initial commit: ForwardBot)
+a36eb65 (Initial commit: ForwardBot)
